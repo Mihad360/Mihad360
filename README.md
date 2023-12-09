@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **ahmedmihad962@gmail.com**
 - <img align='right' width='500' alt='coding' src="https://i.ibb.co/kJh3Rf4/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg" >
-
 <h3 align="left" padding-top='50'>Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/miyadahammed3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="miyadahammed3" height="30" width="40" /></a>
