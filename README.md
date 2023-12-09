@@ -1,4 +1,4 @@
-### Hi 👋, Hello I am Montasir Mihad
+### Hi 👋, I am Montasir Mihad
 #### Web developer
 ![Web developer](https://i.ibb.co/VNWb1B2/example-2.png?fbclid=IwAR2tCuzqsjCwjRxnr1JZWgAdjTQY18SF4-fdOVfS52hB7pYIgyPFrCNSFRE)
 
