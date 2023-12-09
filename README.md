@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Montasir Mihad</h1>
-![Web developer]([https://i.ibb.co/VNWb1B2/example-2.png?fbclid=IwAR2tCuzqsjCwjRxnr1JZWgAdjTQY18SF4-fdOVfS52hB7pYIgyPFrCNSFRE](https://i.ibb.co/7GdWbby/mihad.png))
+<img align='right' width='500' alt='coding' src="https://i.ibb.co/7GdWbby/mihad.png" >
 
 <h3 align="center">As a skilled web developer specializing in Frontend and MERN technologies, I craft captivating digital experiences. Proficient in Full Stack development, I seamlessly weave elegant solutions, creating immersive, innovative, and seamless digital landscapes that captivate users and push the boundaries of possibility.</h3>
 
