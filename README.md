@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Montasir Mihad</h1>
 ![Web developer]([https://i.ibb.co/VNWb1B2/example-2.png?fbclid=IwAR2tCuzqsjCwjRxnr1JZWgAdjTQY18SF4-fdOVfS52hB7pYIgyPFrCNSFRE](https://i.ibb.co/7GdWbby/mihad.png))
-<img align='center' alt='coding' src='[![image](https://github.com/Mihad360/Mihad360/assets/138368125/ccd504b7-9c4d-42d0-bd60-aa68d7bdba3c](https://www.google.com/url?sa=i&url=https%3A%2F%2Fvideoplasty.com%2Fstock-animation%2Fchill-coding-programming-lofi-animation-11018&psig=AOvVaw2cXIr6ARTQNqlLSK-Lz-uE&ust=1702214429422000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOC0oPqygYMDFQAAAAAdAAAAABAE))
+<img align='center' width='500' alt='coding' src='![image](https://github.com/Mihad360/Mihad360/assets/138368125/28084a5a-a025-4772-a09f-ddae77f9ba2c)
 '>
 <h3 align="center">As a skilled web developer specializing in Frontend and MERN technologies, I craft captivating digital experiences. Proficient in Full Stack development, I seamlessly weave elegant solutions, creating immersive, innovative, and seamless digital landscapes that captivate users and push the boundaries of possibility.</h3>
 
