@@ -24,7 +24,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mihad360&show_icons=true&locale=en" alt="mihad360" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mihad360&" alt="mihad360" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mihad360&" alt="mihad360" /></p>
 
 
 
