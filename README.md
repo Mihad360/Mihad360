@@ -27,27 +27,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mihad360&" alt="mihad360" /></p>
 <h3>Restaurent simple website</h3>
 <p>https://restaurent-hub.vercel.app/</p>
-<p>⚫ Home section--- At first i set up the client side and server side work.then i started to thinking for the design of my website.after that i complete my home section design.then i make two extra section and create 6 cards depends on json.
-⚫ Firebase section--- I started the register design and login page design then i create a user in register and sign in method in login page.i declared a google login part also for the users.after that i made the log out section.
-⚫ Details,Add product--- Then i started to design the add product section.then i post some data to my backend server and create a get method for details page.when i got the all data i designed the details page with the information.then i have finded just one card by find method to get one card detail and after that i designed the detail route.
-⚫ Update,add to cart and delete--- Then i completed the update method but put method from my database i made the fetch and does the update method.it is working clear.then i posted again by a new collection and get the data for adding the carts to a carts route and i does this.
-⚫ Delete,deploy and bonus--- After that i completed the carts delete method by backend and it works. At last i completed the vercel deploy for backend and completed the commits and responsive of my webstie.i created the readme.md file also.Then i submitted my assignment...</p>
 
-<h3>My 2st project link:</h3>
-<p>https://illustrious-beetle.surge.sh/</p>
-<p>About assignment ---
-⚫ With a responsive navbar,footer,and load data from mongodb with also adding a swiper in the banner and also two sections i have created. there is also a button in the categories where clicking by user can go the categories details page.
-⚫ After that i have created add book route for adding data for my details and books pages.by adding data the mongodb will get my data's.then i made the dark-theme and some responsiveness in the home page.
-⚫ Then i created the details page with 4 cards and information by filter.after that i designed the login and registered page.in category details page there is a button details where user clicking by go to the book detail page.in the detail page there is a button borrow and read.user can read books by clicking the read button from the new page.
-⚫ After that i have created the firebase authentication with login and register.user profile and name will display at the navbar.then i does the allbook route part with the filter button functionality also.then i have some changes in my codes and web make the website full responsive, dark theme home page with a lot of git commits depends on requirments.after all i make the private route part also then i do the vercel part and surge part...</p>
-
-<h3>My 3st project link:</h3>
-<p>https://magnificent-recess.surge.sh/</p>
-<p>⚫ Home section--- At first i set up the client side and server side work.then i started to thinking for the design of my website.after that i complete my home section design.then i make two extra section and create 6 cards depends on json.
-⚫ Firebase section--- I started the register design and login page design then i create a user in register and sign in method in login page.i declared a google login part also for the users.after that i made the log out section.
-⚫ Details,Add product--- Then i started to design the add product section.then i post some data to my backend server and create a get method for details page.when i got the all data i designed the details page with the information.then i have finded just one card by find method to get one card detail and after that i designed the detail route.
-⚫ Update,add to cart and delete--- Then i completed the update method but put method from my database i made the fetch and does the update method.it is working clear.then i posted again by a new collection and get the data for adding the carts to a carts route and i does this.
-⚫ Delete,deploy and bonus--- After that i completed the carts delete method by backend and it works. At last i completed the vercel deploy for backend and completed the commits and responsive of my webstie.i created the readme.md file also.Then i submitted my assignment...</p>
+<h3>My Portfolio Site</h3>
+<p>https://mihad-portfolio-client.vercel.app/</p>
 
 
 
