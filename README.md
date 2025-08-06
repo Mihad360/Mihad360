@@ -8,6 +8,10 @@
 
 <h3 align="center">🚀 Full Stack Developer | MERN & Next.js Specialist | Digital Innovation Enthusiast</h3>
 
+<p align="center">
+  Passionate about creating seamless digital experiences through modern web technologies. I specialize in building scalable, user-centric applications using the MERN stack and Next.js, with a focus on clean code, innovative solutions, and exceptional user interfaces.
+</p>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mihad360&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/mihad360?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
@@ -30,17 +34,12 @@ const montasir = {
 
 <img align="right" alt="Coding GIF" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-### 🔭 **Current Focus:**
-- 🌟 Mastering **Next.js 15** and **React Server Components**
-- 🏗️ Building **scalable microservices** with Node.js
-- 📱 Exploring **React Native** for mobile development
-- 🎨 Perfecting **UI/UX design** principles
-
 ### 🌱 **Learning Journey:**
-- Advanced **TypeScript** patterns
-- **GraphQL** and **Apollo Client**
-- **Docker** containerization
-- **AWS** cloud services
+- Advanced **MongoDB** aggregation and indexing strategies
+- **Express.js** middleware patterns and API optimization
+- **React** performance optimization and advanced hooks
+- **Node.js** microservices architecture and scalability
+- Modern **JavaScript/ES6+** features and best practices
 
 ### 💬 **Let's Talk About:**
 - Web Development Best Practices
@@ -74,7 +73,6 @@ const montasir = {
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 </div>
 
@@ -89,7 +87,7 @@ const montasir = {
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mihad360&theme=tokyonight&hide_border=true&stroke=0000&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" alt="GitHub Streak Stats" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=mihad360&theme=tokyonight&hide_border=true&stroke=0000&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
@@ -104,9 +102,9 @@ const montasir = {
 
 | Project | Description | Tech Stack | Live Demo |
 |---------|-------------|------------|-----------|
+| **🏦 EasyBank** | Modern banking management system with secure transactions | MERN Stack, JWT Authentication | [View Live](https://easy-banking-client.vercel.app/) |
 | **🎯 Task Manager Pro** | Advanced productivity tool with real-time collaboration | React, Node.js, MongoDB, Socket.io | [View Live](https://task-manager-client-nine-phi.vercel.app/) |
 | **📊 Finance Visualizer** | Interactive financial dashboard with data analytics | Next.js, Chart.js, Firebase | [View Live](https://finance-visualizer-client.vercel.app/) |
-| **🛒 Shopping Hub** | Modern e-commerce platform with payment integration | MERN Stack, Stripe API | [View Live](https://shopping-hub-mu.vercel.app/) |
 | **🎪 ISS Event Management** | Comprehensive event management system | React, Express.js, MongoDB | [View Live](https://fei-client.vercel.app/) |
 
 </div>
@@ -135,17 +133,4 @@ const montasir = {
   <p>⭐ From <a href="https://github.com/mihad360">mihad360</a> with ❤️</p>
 </div>
 ```
-
-## Key Improvements Made:
-
-1. **🎨 Modern Design**: Added animated typing effect, better badges, and professional styling
-2. **📊 Fixed GitHub Stats**: Updated with working URLs and better themes
-3. **🖼️ New Hero Image**: Generated a modern developer workspace image
-4. **📱 Responsive Layout**: Better organization with tables and aligned sections
-5. **🎯 Professional Tone**: More engaging content with emojis and better descriptions
-6. **🔗 Enhanced Links**: Added more social media badges and portfolio section
-7. **📈 Better Analytics**: Multiple GitHub stat widgets with consistent theming
-8. **🏆 Project Showcase**: Organized projects in a professional table format
-
-The new README is much more visually appealing, professional, and includes all the modern GitHub profile trends while maintaining readability and showcasing your skills effectively!
 
