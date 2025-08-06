@@ -1,10 +1,11 @@
-<div align="center">
-  <img src="/images/hero-banner.jpg" alt="Montasir Mihad - Full Stack Developer" width="100%" height="300" style="object-fit: cover; border-radius: 10px;" />
-</div>
-
-<h1 align="center">
+<div align="center" display="flex" >
+  <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Montasir+Mihad!;" />
 </h1>
+  <img src="[/images/hero-banner.jpg](https://i.ibb.co.com/zhHbgCPX/Chat-GPT-Image-Aug-6-2025-09-53-13-PM.png)" alt="Montasir Mihad - Full Stack Developer" width="100%" height="300" style="object-fit: cover; border-radius: 10px;" />
+</div>
+
+
 
 <h3 align="center">🚀 Full Stack Developer | MERN & Next.js Specialist | Digital Innovation Enthusiast</h3>
 
@@ -26,7 +27,7 @@ const montasir = {
     pronouns: "He/Him",
     location: "Bangladesh 🇧🇩",
     role: "Full Stack Developer",
-    specialization: ["MERN Stack", "Next.js", "Modern Web Development"],
+    specialization: ["MERN Stack", "Full stack", "Backend development"],
     currentFocus: "Building scalable web applications with cutting-edge technologies",
     funFact: "I turn coffee into code and ideas into digital reality! ☕→💻"
 };
