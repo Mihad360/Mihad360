@@ -8,7 +8,7 @@
     </td>
    <td align="center">
       <img 
-        src="https://i.ibb.co.com/Q74Gwntc/Chat-GPT-Image-Aug-6-2025-09-53-13-PM.png" 
+        src="https://i.ibb.co/Q74Gwntc/Chat-GPT-Image-Aug-6-2025-09-53-13-PM.png" 
         alt="Montasir Mihad - Full Stack Developer" 
         width="500"
       />
