@@ -1,4 +1,4 @@
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 20px; width: 100%;">
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 20px; width: 100%;">
   <h1 style="margin: 0; text-align: center;">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Montasir+Mihad!;" alt="Typing animation" />
   </h1>
