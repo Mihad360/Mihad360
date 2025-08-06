@@ -2,7 +2,7 @@
   <h1 style="margin: 0;">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Montasir+Mihad!;" alt="Typing animation" />
   </h1>
-  <img src="https://i.ibb.co/zhHbgCPX/Chat-GPT-Image-Aug-6-2025-09-53-13-PM.png" 
+  <img src="https://i.ibb.co.com/Q74Gwntc/Chat-GPT-Image-Aug-6-2025-09-53-13-PM.png" 
        alt="Montasir Mihad - Full Stack Developer" 
        style="max-width: 300px; height: auto; border-radius: 10px;" />
 </div>
