@@ -1,11 +1,25 @@
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 30px; flex-wrap: wrap; width: 100%;">
-  <h1 style="margin: 0;">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Montasir+Mihad!;" alt="Typing animation" />
-  </h1>
-  <img src="https://i.ibb.co.com/Q74Gwntc/Chat-GPT-Image-Aug-6-2025-09-53-13-PM.png" 
-       alt="Montasir Mihad - Full Stack Developer" 
-       style="max-width: 300px; height: auto; border-radius: 10px;" />
-</div>
+<table align="center">
+  <tr>
+    <!-- Typing animation -->
+    <td align="center">
+      <img 
+        src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=400&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Montasir+Mihad!" 
+        alt="Typing animation"
+      />
+    </td>
+
+    <!-- Profile Banner -->
+   <td align="center">
+      <img 
+        src="https://i.ibb.co.com/Q74Gwntc/Chat-GPT-Image-Aug-6-2025-09-53-13-PM.png" 
+        alt="Montasir Mihad - Full Stack Developer" 
+        width="300"
+        style="border-radius: 10px;" 
+      />
+    </td>
+  </tr>
+</table>
+
 
 
 
