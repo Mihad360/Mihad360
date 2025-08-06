@@ -1,8 +1,10 @@
-<div align="center" display="flex" >
-  <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Montasir+Mihad!;" />
-</h1>
-  <img src="[/images/hero-banner.jpg](https://i.ibb.co.com/zhHbgCPX/Chat-GPT-Image-Aug-6-2025-09-53-13-PM.png)" alt="Montasir Mihad - Full Stack Developer" width="100%" height="300" style="object-fit: cover; border-radius: 10px;" />
+<div align="center" style="display: flex; flex-direction: column; align-items: center;">
+  <h1 align="center" style="margin-bottom: 20px;">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Montasir+Mihad!;" />
+  </h1>
+  <img src="https://i.ibb.co.com/zhHbgCPX/Chat-GPT-Image-Aug-6-2025-09-53-13-PM.png" 
+       alt="Montasir Mihad - Full Stack Developer" 
+       style="width: 100%; height: 300px; object-fit: cover; border-radius: 10px;" />
 </div>
 
 
