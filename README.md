@@ -101,7 +101,7 @@ const Montasir Mihad = {
 </div>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=mihad360&theme=tokyonight&hide_border=true&stroke=0000&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" alt="GitHub Streak Stats" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=mihad360&theme=tokyonight&hide_border=true&stroke=0000&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&random=<?=time()?>" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
